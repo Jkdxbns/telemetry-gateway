@@ -1,0 +1,22 @@
+# we unignore this when time comes
+docs/03-results/MEASUREMENTS.md
+CMakeLists.txt
+README.md
+
+# Claude Files
+CLAUDE.md
+memory.md
+
+# resources
+resources/  
+
+# docs for managing project
+docs/00-build-docs
+docs/01-learning/NOTES.txt
+
+# old protocol files
+docs/protocol/protocol_v0.md
+
+# project results and plan
+docs/03-results/DEFENSE_QA.md
+PROJECT_GUIDE.md
